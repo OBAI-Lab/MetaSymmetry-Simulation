@@ -1,6 +1,6 @@
 # Commercial Usage Request Form
 
-If you wish to use the Advanced Modular Meta-Symmetry Engine or any outputs derived from it for **commercial purposes**, please fill out the following and email to: [youremail@domain.com]
+If you wish to use the Advanced Modular Meta-Symmetry Engine or any outputs derived from it for **commercial purposes**, please fill out the following and email to: pforbes@obai.io
 
 ---
 
