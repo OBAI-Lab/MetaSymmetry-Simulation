@@ -7,11 +7,11 @@ Permission is hereby granted to anyone to use, explore, analyze, or attempt to r
    a. Proper credit must be given to *Patrick C. Forbes and Fatima L. Forbes* in any derivative work, publication, presentation, or discussion involving this codebase or its output.  
    b. Appropriate credit includes naming “Patrick C. Forbes and Fatima L. Forbes (Founders of Obsidian Simulation Project)” in academic papers, public talks, GitHub forks, videos, or documentation.  
    c. For academic citation, please include:  
-   > Forbes, P. C., & Forbes, F. L. (2025). *Obsidian Meta-Symmetry Engine: Simulating Emergent Physics and Consciousness*. [GitHub Repository]
+   > Forbes, P. C., & Forbes, F. L. (2025). *Obsidian Meta-Symmetry Engine: Simulating Emergent Physics and Consciousness*. https://github.com/OBAI-Lab
 
 2. **Non-Commercial Use Only**  
    a. This license **does not grant** the right to use this work or its derivative outputs for **commercial purposes**, including product development, monetization, integration into for-profit platforms, or resale.  
-   b. Commercial use **requires a separate licensing agreement** with the copyright holders. Contact [insert contact email or GitHub] for inquiries.
+   b. Commercial use **requires a separate licensing agreement** with the copyright holders. Contact pforbes@obai.io/ https://github.com/OBAI-Lab for inquiries.
 
 3. **No Patent Claims Without Collaboration**  
    Any attempts to patent derivative works, discoveries, or ideas based in part or in whole on this simulation, without explicit collaboration or agreement with Patrick C. Forbes and Fatima L. Forbes, are prohibited.
@@ -32,6 +32,7 @@ Permission is hereby granted to anyone to use, explore, analyze, or attempt to r
 
 For commercial use inquiries, collaborative projects, or licensing questions, contact:  
 **Patrick C. Forbes & Fatima L. Forbes**  
-📧 [Insert preferred email or GitHub profile links]
+📧 pforbes@obai.io
+https://github.com/OBAI-Lab
 
 ---
