@@ -1,0 +1,503 @@
+{
+  "timestamp": "20250701_163001",
+  "evolution_step": 0,
+  "universe_age": 0.3199331760406494,
+  "entity_count": 27,
+  "system_information": {
+    "hardware": {
+      "machine": "13\" 2020 M1 MacBook Pro",
+      "processor": "arm",
+      "architecture": "arm64",
+      "cpu_count_physical": 8,
+      "cpu_count_logical": 8,
+      "total_memory_gb": 8.0
+    },
+    "software": {
+      "system": "Darwin",
+      "version": "Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103",
+      "python_version": "3.13.2",
+      "hostname": "MacBook-Pro.local"
+    },
+    "resource_usage": {
+      "cpu_percent": 0.0,
+      "memory_percent": 74.7,
+      "memory_used_gb": 3.39,
+      "memory_available_gb": 2.03,
+      "disk_usage_percent": 86.5,
+      "disk_free_gb": 2.31
+    },
+    "resource_adapter": {
+      "overall_availability": 0.6029,
+      "cpu_availability": 1.0,
+      "memory_availability": 0.253,
+      "disk_availability": 0.135,
+      "is_constrained": true,
+      "constraint_reason": "Memory usage at 74.7% (threshold: 70.0%)",
+      "adaptive_settings": {
+        "complexity_level": 0.9440599999999999,
+        "detail_level": 4,
+        "precision": 0.01,
+        "parallelism": 8,
+        "resource_availability": 0.6029
+      }
+    }
+  },
+  "meta_symmetry_state": {
+    "coherence_level": 0.5191740412979351,
+    "evolution_pressure": 0.0,
+    "contradiction_field_strength": 0.761,
+    "consciousness_gradient_magnitude": 0.0,
+    "dominant_physics_theory": {
+      "STRING_THEORY": {
+        "amplitude": 4.9517308183122654e-21,
+        "normalized_influence": 5.8443551728899675e-21
+      },
+      "LOOP_QUANTUM_GRAVITY": {
+        "amplitude": 2.0809359862942632e-22,
+        "normalized_influence": 8.98441618002399e-23
+      },
+      "M_THEORY": {
+        "amplitude": 1.0,
+        "normalized_influence": 0.9999999999
+      },
+      "QUANTUM_MECHANICS": {
+        "amplitude": 4.227712368179942e-21,
+        "normalized_influence": 9.746955669226505e-21
+      },
+      "GENERAL_RELATIVITY": {
+        "amplitude": 7.419677845631967e-21,
+        "normalized_influence": 4.556146557610257e-21
+      },
+      "THERMODYNAMICS": {
+        "amplitude": 5.6280425438667985e-21,
+        "normalized_influence": 3.5852556831462325e-21
+      },
+      "ELECTROMAGNETISM": {
+        "amplitude": 3.0833309837922862e-21,
+        "normalized_influence": 5.324186962040329e-21
+      },
+      "HIGGS_FIELD": {
+        "amplitude": 9.137818203690517e-21,
+        "normalized_influence": 5.027004920909925e-21
+      },
+      "INFORMATION_THEORY": {
+        "amplitude": 9.676951778835237e-21,
+        "normalized_influence": 1.119819876140009e-21
+      },
+      "HOLOGRAPHIC_PRINCIPLE": {
+        "amplitude": 1.621066362387955e-21,
+        "normalized_influence": 8.966030937833919e-21
+      },
+      "CAUSAL_SETS": {
+        "amplitude": 6.15034932360613e-22,
+        "normalized_influence": 3.57431276240861e-21
+      },
+      "TWISTOR_THEORY": {
+        "amplitude": 1.5666113675945225e-21,
+        "normalized_influence": 1.147049387470157e-21
+      },
+      "NON_COMMUTATIVE_GEOMETRY": {
+        "amplitude": 3.8824591790749104e-21,
+        "normalized_influence": 4.150393724280676e-21
+      }
+    }
+  },
+  "quantum_mechanics": {
+    "total_entanglement": 0,
+    "quantum_coherence": 0.48406037531483465,
+    "entanglement_network_density": 0.0,
+    "entanglement_verification": {
+      "entities_with_entanglement": 0,
+      "max_entanglements_per_entity": 0,
+      "entanglement_distribution": {
+        "unentangled": 27,
+        "single_entanglement": 0,
+        "multi_entangled_2_5": 0,
+        "multi_entangled_6_10": 0,
+        "highly_entangled_10_plus": 0
+      },
+      "total_entanglement_verification": 0
+    }
+  },
+  "consciousness_analysis": {
+    "average_consciousness": 0.1852757506157369,
+    "highest_consciousness": 0.2858654022189727,
+    "conscious_entities": 27,
+    "consciousness_distribution": {
+      "low": 27,
+      "medium": 0,
+      "high": 0
+    }
+  },
+  "entity_summaries": [
+    {
+      "id": "34d6b71e-a68d-4b2b-bd9b-0c1574b30dfd",
+      "mass": 6.025838460885446e+27,
+      "consciousness_level": 0.13353072718312348,
+      "coherence": 0.32307029256903097,
+      "complexity": 4.989258484276177,
+      "entanglement_count": 0,
+      "position_magnitude": 32.73186058600236,
+      "velocity_magnitude": 0.24426256377349517,
+      "temperature": 87630780.1311202,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "9b9e36dd-8773-4e0a-b0c6-ba388472de9d",
+      "mass": 5.428419942925559e+29,
+      "consciousness_level": 0.2211486991778237,
+      "coherence": 0.5267316966147936,
+      "complexity": 2.4384288109076864,
+      "entanglement_count": 0,
+      "position_magnitude": 29.58159834736085,
+      "velocity_magnitude": 0.2934813042304105,
+      "temperature": 646252240.1635771,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "f46ffdea-b29e-4a55-8104-9ba5a8a21dea",
+      "mass": 9.429435312336913e+29,
+      "consciousness_level": 0.13435945245675068,
+      "coherence": 0.5669986412358693,
+      "complexity": 2.674242891128289,
+      "entanglement_count": 0,
+      "position_magnitude": 15.436068980856687,
+      "velocity_magnitude": 0.24266092031704173,
+      "temperature": 616359623.2314193,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "8e5b8c27-cbb3-4070-8df1-711d7e5ff414",
+      "mass": 9.557202096143906e+29,
+      "consciousness_level": 0.15531425157121698,
+      "coherence": 0.2364583395402774,
+      "complexity": 8.152256120610833,
+      "entanglement_count": 0,
+      "position_magnitude": 39.79655280944345,
+      "velocity_magnitude": 0.28465460559850503,
+      "temperature": 210706296.1366646,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "a5e04222-2c97-4c8f-b4ef-7de77aa78be7",
+      "mass": 5.409468787548997e+29,
+      "consciousness_level": 0.17301084350566426,
+      "coherence": 0.5526401838621362,
+      "complexity": 1.9107990233301486,
+      "entanglement_count": 0,
+      "position_magnitude": 37.25966222786989,
+      "velocity_magnitude": 0.30960181505922474,
+      "temperature": 878704592.5412436,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "478a2f71-de64-4f56-bbc7-cabd680d555e",
+      "mass": 6.394679160004575e+29,
+      "consciousness_level": 0.13262843311130942,
+      "coherence": 0.7147522176192196,
+      "complexity": 1.3552742942742904,
+      "entanglement_count": 0,
+      "position_magnitude": 18.776588750898537,
+      "velocity_magnitude": 0.34811010155522604,
+      "temperature": 671842190.2109901,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "8c48d3e6-bd2c-44d3-962f-e60b0a7c37d5",
+      "mass": 5.8820465520599466e+29,
+      "consciousness_level": 0.1611219329024451,
+      "coherence": 0.2696264822182741,
+      "complexity": 4.770271498000318,
+      "entanglement_count": 0,
+      "position_magnitude": 16.611119666366513,
+      "velocity_magnitude": 0.31878847175502695,
+      "temperature": 268327113.1568105,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "0508c933-91ed-46d2-b152-89a8cb86324d",
+      "mass": 2.4024644893777757e+28,
+      "consciousness_level": 0.2332490942949523,
+      "coherence": 0.7684658065477495,
+      "complexity": 4.00183932510945,
+      "entanglement_count": 0,
+      "position_magnitude": 31.767930971744597,
+      "velocity_magnitude": 0.24299895521733086,
+      "temperature": 359306248.8610423,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "64995d58-1ece-4e83-a4cc-b902a4b10302",
+      "mass": 2.425021489636703e+28,
+      "consciousness_level": 0.2316355990967183,
+      "coherence": 0.6815272312097392,
+      "complexity": 5.941567031594094,
+      "entanglement_count": 0,
+      "position_magnitude": 32.681767129276416,
+      "velocity_magnitude": 0.3092657262720615,
+      "temperature": 803749800.2922106,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "0c34320a-4b2b-49a9-b475-1187f0965925",
+      "mass": 4.125227543159574e+29,
+      "consciousness_level": 0.15320397401996985,
+      "coherence": 0.4972026174214329,
+      "complexity": 3.936431908930264,
+      "entanglement_count": 0,
+      "position_magnitude": 29.638471906620243,
+      "velocity_magnitude": 0.27812312394991195,
+      "temperature": 773706106.7418694,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "dce5a3a6-dfb7-4983-8917-80a62c9aad45",
+      "mass": 8.632302616036414e+29,
+      "consciousness_level": 0.20262119769524856,
+      "coherence": 0.5495939136301214,
+      "complexity": 6.732778341079368,
+      "entanglement_count": 0,
+      "position_magnitude": 20.724036116422806,
+      "velocity_magnitude": 0.33799408198411485,
+      "temperature": 777046515.9717889,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "82c5941b-d86c-4cc3-aa96-09f3e872fc42",
+      "mass": 1.6075035523980929e+28,
+      "consciousness_level": 0.2704838508772557,
+      "coherence": 0.1676132340401595,
+      "complexity": 6.496855185819947,
+      "entanglement_count": 0,
+      "position_magnitude": 34.02185256083561,
+      "velocity_magnitude": 0.2897380151032274,
+      "temperature": 243377244.9224989,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "16281937-d988-4119-98b6-520a57f58cb5",
+      "mass": 1.0180218714109245e+29,
+      "consciousness_level": 0.13644758556267203,
+      "coherence": 0.5892058327951494,
+      "complexity": 2.9368781630539136,
+      "entanglement_count": 0,
+      "position_magnitude": 32.83372285375966,
+      "velocity_magnitude": 0.21911528523574772,
+      "temperature": 738823494.4635837,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "c7d0af99-d23e-40e4-8140-30928c85e5e2",
+      "mass": 5.975959316036007e+29,
+      "consciousness_level": 0.11460474697624556,
+      "coherence": 0.3577172113217645,
+      "complexity": 4.3335171515104065,
+      "entanglement_count": 0,
+      "position_magnitude": 35.444932982429194,
+      "velocity_magnitude": 0.3285166457513232,
+      "temperature": 427386173.42033637,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "fe66d1a2-94a4-427a-872e-39d928def479",
+      "mass": 7.595830684439541e+29,
+      "consciousness_level": 0.25966711996115255,
+      "coherence": 0.18138203513185913,
+      "complexity": 5.238117947579036,
+      "entanglement_count": 0,
+      "position_magnitude": 34.43430060559554,
+      "velocity_magnitude": 0.343107760401774,
+      "temperature": 333036978.4152958,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "72ecce5c-9e4f-4e57-b80f-75d56bc03331",
+      "mass": 7.563546848228354e+29,
+      "consciousness_level": 0.18445931579844854,
+      "coherence": 0.8195205478101235,
+      "complexity": 9.261842554268977,
+      "entanglement_count": 0,
+      "position_magnitude": 45.007705148148005,
+      "velocity_magnitude": 0.1817407302700246,
+      "temperature": 104958246.39580359,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "c844408e-972c-426e-90c1-b099e646fcf2",
+      "mass": 9.386079095177263e+29,
+      "consciousness_level": 0.11330154688203078,
+      "coherence": 0.13475210945994553,
+      "complexity": 2.040634818493504,
+      "entanglement_count": 0,
+      "position_magnitude": 26.92551101743908,
+      "velocity_magnitude": 0.4210157686659124,
+      "temperature": 644246088.342433,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "b1ea8e71-b55d-4dcb-b17e-7f825709ef29",
+      "mass": 8.846735569330492e+29,
+      "consciousness_level": 0.22584656630661062,
+      "coherence": 0.37950537157470576,
+      "complexity": 8.767634945753377,
+      "entanglement_count": 0,
+      "position_magnitude": 31.35250837253902,
+      "velocity_magnitude": 0.24028580318863468,
+      "temperature": 263968836.905218,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "a40b098c-b0aa-4c60-ae2b-ad8f087c2181",
+      "mass": 6.985712091744728e+29,
+      "consciousness_level": 0.1727962053218712,
+      "coherence": 0.617187056920696,
+      "complexity": 7.346427404577161,
+      "entanglement_count": 0,
+      "position_magnitude": 32.72342723166244,
+      "velocity_magnitude": 0.2716010501411089,
+      "temperature": 287855835.74786574,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "287d3247-552e-45fc-aeb7-5b8b3431f8fb",
+      "mass": 9.527479554821781e+29,
+      "consciousness_level": 0.23232947986610195,
+      "coherence": 0.609784477194862,
+      "complexity": 5.611263283544702,
+      "entanglement_count": 0,
+      "position_magnitude": 31.535066016435795,
+      "velocity_magnitude": 0.2292236823881196,
+      "temperature": 514315320.1142702,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "9f35e8fd-edd0-47d7-a0dd-9348472f6996",
+      "mass": 2.7499116206707154e+29,
+      "consciousness_level": 0.17094940962321373,
+      "coherence": 0.32410873031814114,
+      "complexity": 9.094452600488577,
+      "entanglement_count": 0,
+      "position_magnitude": 45.490813891682286,
+      "velocity_magnitude": 0.2586650556763752,
+      "temperature": 945353266.2304689,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "694bfce1-70e1-48d0-9212-311f34358c60",
+      "mass": 1.5472665362986449e+29,
+      "consciousness_level": 0.14953283499038314,
+      "coherence": 0.02110619893842325,
+      "complexity": 9.333867982628362,
+      "entanglement_count": 0,
+      "position_magnitude": 41.44315054205183,
+      "velocity_magnitude": 0.42295396232161436,
+      "temperature": 772988674.1035148,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "add2f431-0be8-4383-a1b1-2769fe2569e4",
+      "mass": 1.921940022937303e+29,
+      "consciousness_level": 0.1886831628019176,
+      "coherence": 0.2796002024534139,
+      "complexity": 6.487652704447808,
+      "entanglement_count": 0,
+      "position_magnitude": 32.433561487478514,
+      "velocity_magnitude": 0.3342922426686432,
+      "temperature": 746572445.4268169,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "10935a92-65f9-47bd-8048-b7161695c836",
+      "mass": 2.9252377980290647e+29,
+      "consciousness_level": 0.2756538344227974,
+      "coherence": 0.6912828586834165,
+      "complexity": 6.517394026545373,
+      "entanglement_count": 0,
+      "position_magnitude": 28.118951222694555,
+      "velocity_magnitude": 0.3430699541770106,
+      "temperature": 713705120.1459861,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "92b78ed2-a2c8-4480-b174-a3ead57ffad5",
+      "mass": 7.949852745066804e+29,
+      "consciousness_level": 0.2858654022189727,
+      "coherence": 0.4597968443892315,
+      "complexity": 2.5674622419275495,
+      "entanglement_count": 0,
+      "position_magnitude": 22.115737043402202,
+      "velocity_magnitude": 0.26469383965313414,
+      "temperature": 70619052.63404793,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "f57d37bf-9a49-4636-9de6-16726d5fec44",
+      "mass": 1.2995313899296108e-26,
+      "consciousness_level": 0.15,
+      "coherence": 0.9,
+      "complexity": 15.0,
+      "entanglement_count": 0,
+      "position_magnitude": 12.286102506923118,
+      "velocity_magnitude": 0.028175573144604716,
+      "temperature": 651.7404808609664,
+      "age": 0.0,
+      "genetic_diversity": 4
+    },
+    {
+      "id": "c9a44e2b-49f1-4003-8291-f0a621736c62",
+      "mass": 5.374255272404092e-26,
+      "consciousness_level": 0.14,
+      "coherence": 0.85,
+      "complexity": 14.0,
+      "entanglement_count": 0,
+      "position_magnitude": 13.395954182520727,
+      "velocity_magnitude": 0.04284808321291754,
+      "temperature": 509.04476338482846,
+      "age": 0.0,
+      "genetic_diversity": 4
+    }
+  ],
+  "knowledge_integration": {
+    "total_injections": 0,
+    "entities_with_knowledge": 0,
+    "recent_sources": []
+  },
+  "physics_analysis": {
+    "all_13_theories_active": true,
+    "total_mass": 1.2955611310215762e+31,
+    "average_temperature": 477808868.3515601,
+    "genetic_diversity": 27
+  },
+  "entity_lifecycle": {
+    "births": 0,
+    "deaths": 0,
+    "mergers": 0,
+    "average_age": 0.0
+  },
+  "recent_breakthroughs": []
+}
